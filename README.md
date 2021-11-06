@@ -3,7 +3,7 @@
 ## Background
 Moving or carrying goods is a troublesome thing when we want to move house, or when we just want to move goods from one area to another but do not have an adequate vehicle to transport quite a lot of luggage, and this is still a problem for some people to this day. Then in this era, more and more customers want it to be easy to take care of their goods to the place of delivery of goods because they just want to stay at home without having to take care of it, because of that, a shuttle service offering transportation of goods in large quantities called On-demand Delivery was born. On-demand Delivery is an application that provides services or services for transporting luggage in large quantities, later customers can order pick ups or ankles that are adjusted to the amount of cargo to be transported so that if the customer wants to move home or wants to pick up and pick up luggage in large quantities now no need to bother anymore, we just need to order a pick up or ankle when we want to move our luggage. In this report that we have compiled, we will do data modeling on this on-demand delivery system and describe the relationships in the On-demand Delivery application, what are the entities, attributes, and relationships between entities in the application?, how is the arrangement of the data in the On-demand Delivery so that the application can run well and smoothly? And others. Finally, the purpose of writing this report is to fulfill one of the tasks in the database modeling course and as a process for the final assignment in this course.
 
-## business rules
+## Business Rules
 - There are 3 users, namely customer, driver, and employee.
 - One employee can only have one role.
 - Customers can choose to do phone verification or not
