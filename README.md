@@ -60,4 +60,4 @@ Moving or carrying goods is a troublesome thing when we want to move house, or w
 
 ![Alt text](https://github.com/dioapw/school-project-database-modeling/blob/main/on_demand_delivery_relation_schema.png)
 
-This Project Was Built by Dio Aditya, Rezki Fauzan and Frezza Rio.
+This Project Was Built by Dio Aditya, Rezki Fauzan and Freza Rio.
