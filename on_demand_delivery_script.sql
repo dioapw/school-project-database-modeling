@@ -1,6 +1,3 @@
-REM   Script: On Demand Delivery - DB
-REM   TUBES PBD - TELKOM UNIVERSITY 
-
 -- Create Table Users
 create table users (   
   user_id       number,   
@@ -1360,5 +1357,3 @@ insert into item (trip_id,truck_id,item_type_id,item_name,weight,description,dim
     ),
     'Emas 1kg',1000,'Emas batangan murni seberat kurang lebih 1kg','112 x 52mm'
 );
-
-
