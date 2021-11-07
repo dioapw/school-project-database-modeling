@@ -54,7 +54,7 @@ Moving or carrying goods is a troublesome thing when we want to move house, or w
 
 ## Entity Relationship Diagram
 
-![Alt text](https://user-images.githubusercontent.com/55073908/140640336-2054e282-1151-4214-b43f-21b6cbcc3fdd.png)
+![Alt text](https://github.com/dioapw/school-project-database-modeling/blob/main/on_demand_delivery_erd.png)
 
 
 ## Relational Schema
