@@ -54,10 +54,12 @@ Moving or carrying goods is a troublesome thing when we want to move house, or w
 
 ## Entity Relationship Diagram
 
-![Alt text](https://github.com/dioapw/school-project-database-modeling/blob/main/on_demand_delivery_erd.png)
+![Alt text](https://user-images.githubusercontent.com/55073908/140640336-2054e282-1151-4214-b43f-21b6cbcc3fdd.png)
+
 
 ## Relational Schema
 
-![Alt text](https://github.com/dioapw/school-project-database-modeling/blob/main/on_demand_delivery_relation_schema.png)
+![Alt text](https://user-images.githubusercontent.com/55073908/140640349-5518114d-651f-44d6-bd44-5a982518b9be.png)
+
 
 This Project Was Built by Dio Aditya, Rezki Fauzan and Freza Rio.
